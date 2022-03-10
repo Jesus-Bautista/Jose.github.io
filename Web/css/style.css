@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(69, 131, 131);
+}
+.nav{
+    padding: .3em;
+    display: block;
+    text-decoration: dotted;
+    border-top: 1px solid #7C7C7C;
+    border-right: 1px solid #7C7C7C;
+    border-bottom: 1px solid #9C9C9C;
+    background: rgb(199, 171, 171);
+}
